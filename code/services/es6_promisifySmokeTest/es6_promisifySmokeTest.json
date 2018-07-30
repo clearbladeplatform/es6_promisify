@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,es6_promisify",
+    "logging_enabled": "false",
+    "name": "es6_promisifySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "es6_promisifySmokeTest.js"
+}
